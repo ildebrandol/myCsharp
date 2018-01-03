@@ -27,7 +27,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a);
             }
-            Console.WriteLine("lol");
             Console.ReadLine();
         }
     }
